@@ -1,1 +1,92 @@
-
+# === Tracking & Analytics (nur wenn wirklich benötigt) ===
+@@||analytics.amplitude.com^|    # Analytics-Dienst (nur wenn du ihn brauchst)
+@@||statcounter.com^|            # Statistik-Dienst (nur wenn du ihn brauchst)
+@@||www.statcounter.com^|
+@@||gs.statcounter.com^|
+# === E-Mail & Kommunikation ===
+@@||e.customeriomail.com^|       # E-Mail-Versanddienst
+@@||links.e.theatlantic.com^|    # E-Mail-Tracking
+@@||email.elitedangerous.com^|   # Spiel-E-Mails
+@@||email.awscloud.com^|         # AWS-Benachrichtigungen
+@@||email.procook.co.uk^|        # E-Commerce E-Mails
+@@||t.communication.github.com^| # GitHub-Notifications
+@@||login.sendpulse.com^|        # E-Mail-Marketing-Login
+# === Mobile Apps & App Stores ===
+@@||app.appsflyer.com^|          # App-Tracking (wichtig für viele Apps)
+@@||click.appcast.io^|           # Job-App-Tracking
+@@||app.adjust.com^|             # Mobile App-Tracking
+@@||app-cdn.minepi.com^|         # Pi Network CDN
+@@||redirect.appmetrica.yandex.com^| # Yandex App-Tracking
+# === Online-Shops & E-Commerce ===
+@@||media-consumer365.desigual.com^| # Shop-CDN
+@@||promo.gramedia.com^|         # Buchhandel Promo
+@@||go.scorptec.com.au^|         # Hardware-Shop Redirects
+@@||envato.market^|              # Affiliate-Links (z. B. ThemeForest)
+@@||goto.target.com^|            # Target Redirects
+@@||goto.walmart.com^|           # Walmart Redirects
+# === Banking & Finanzen ===
+@@||tms.capitalone.com^|         # CapitalOne Banking
+@@||ads.tdbank.com^|             # TD Bank Werbung/Tracking
+# === Empfehlungsdienste & Personalisierung ===
+@@||api.personaclick.com^|       # Produktempfehlungen
+@@||recommender.scarabresearch.com^| # E-Commerce Empfehlungen
+@@||torimochi.line-apps.com^|    # LINE App Empfehlungen
+@@||bcicl.*.evergage.com^|       # Personalisierungs-Engine
+@@||brm-core-*.brsrvr.com^|      # BloomReach Empfehlungen
+@@||static-v*.trbo.com^|         # TRBO Empfehlungen
+@@||api-v*.trbo.com^|            # TRBO API
+# === CDNs & Infrastruktur ===
+@@||cdn.rozetka.com.ua^|         # Ukrainisches E-Commerce CDN
+@@||cdn.duurzaam.greenchoice.nl^| # Greenchoice CDN
+@@||cloud.notification-naviextras.com^| # Navi-Update CDN
+@@||c.office.com^|               # Microsoft Office
+@@||js.monitor.azure.com^|       # Azure Monitoring
+@@||my.tealiumiq.com^|           # Tag Management (nur wenn benötigt)
+# === Marketing & Werbung (nur wenn explizit gewünscht) ===
+@@||awin1.com^|                  # Affiliate-Netzwerk
+@@||redir.tradedoubler.com^|     # Affiliate-Tracking
+@@||clk*.tradedoubler.com^|      # Affiliate-Klicks
+@@||hb.afl.rakuten.co.jp^|       # Rakuten Affiliate
+@@||pt.afl.rakuten.co.jp^|
+# === Suchmaschinen & Werbung (Google) ===
+@@||pagead.l.doubleclick.net^|   # Google Ads (nur wenn du Werbung siehst)
+@@||www.googleadservices.com^|   # Google Ads Services
+@@||googleadapis.l.google.com^|  # Google Ads API
+@@||adservice.google.com^|       # Google Werbedienste
+@@||googleads.g.doubleclick.net/ads/preferences/| # Google Werbepräferenzen
+@@||adclick.g.doubleclick.net/pcs| # Google Ad Clicks
+# === Ergänzte sinnvolle Domains ===
+@@||clients4.google.com^|        # Google Services
+@@||clients2.google.com^|        # Google Services
+@@||safebrowsing.googleapis.com^| # Sicherheitscheck von Google
+@@||connectivitycheck.gstatic.com^| # Android Verbindungscheck
+@@||ssl.gstatic.com^|            # Google Fonts, Icons
+@@||fonts.gstatic.com^|          # Google Fonts
+@@||update.googleapis.com^|      # Google Update-Server
+@@||dl.google.com^|              # Google Downloads
+@@||clients1.google.com^|        # Google Services
+@@||firestore.googleapis.com^|   # Firebase (für Apps)
+@@||www.gstatic.com^|            # Google Static Content
+@@||imasdk.googleapis.com^|      # Google IMA SDK (für Videos)
+@@||vlscppe.microsoft.com^|
+@@||h-microsoft.online-metrix.net^|
+@@||aax-eu.amazon-adsystem.com^|
+@@||aes.eu-west.ono.axp.amazon-adsystem.com^|
+@@||aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com^|
+@@||aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com^|
+@@||global.telemetry.insights.video.a2z.com^$important
+@@||cp.gutefrage.net^$important
+@@||gutefrage.h5v.eu^$important
+@@||loader.gutefrage.net^$important
+@@||api.mixpanel.com^$important
+@@||saechsische.de^$important
+@@||cdn.tinypass.com^$important
+@@||aax-eu.amazon-adsystem.com^$important
+@@||ad.71i.de^$important
+@@||de.ioam.de^$important
+@@||hbbtv-track.redbutton.de^$important
+@@||script.ioam.de^$important
+@@||imasdk.googleapis.com^$important
+@@||79423.analytics.edgesuite.net^$important
+@@||c54d73e9dc7d19aa279a4795672f47259f0735569d0d393008a5236d7b78cc6.us-east-1.prod.service.minerva.devices.a2z.com^$important
+@@||insight.adsrvr.org^$important
