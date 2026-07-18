@@ -89,3 +89,6 @@
 @@||imasdk.googleapis.com^$important
 @@||79423.analytics.edgesuite.net^$important
 @@||insight.adsrvr.org^$important
+@@||aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com^$important
+@@||aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com^$important
+@@||aes.eu-central.3px.axp.amazon-adsystem.com^$important
