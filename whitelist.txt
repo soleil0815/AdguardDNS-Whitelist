@@ -1,162 +1,162 @@
-# === Tracking & Analytics (nur wenn wirklich benötigt) ===
-@@||analytics.amplitude.com^|    # Analytics-Dienst (nur wenn du ihn brauchst)
-@@||statcounter.com^|            # Statistik-Dienst (nur wenn du ihn brauchst)
-@@||www.statcounter.com^|
-@@||gs.statcounter.com^|
-# === E-Mail & Kommunikation ===
-@@||e.customeriomail.com^|       # E-Mail-Versanddienst
-@@||links.e.theatlantic.com^|    # E-Mail-Tracking
-@@||email.elitedangerous.com^|   # Spiel-E-Mails
-@@||email.awscloud.com^|         # AWS-Benachrichtigungen
-@@||email.procook.co.uk^|        # E-Commerce E-Mails
-@@||t.communication.github.com^| # GitHub-Notifications
-@@||login.sendpulse.com^|        # E-Mail-Marketing-Login
-# === Mobile Apps & App Stores ===
-@@||app.appsflyer.com^|          # App-Tracking (wichtig für viele Apps)
-@@||click.appcast.io^|           # Job-App-Tracking
-@@||app.adjust.com^|             # Mobile App-Tracking
-@@||app-cdn.minepi.com^|         # Pi Network CDN
-@@||redirect.appmetrica.yandex.com^| # Yandex App-Tracking
-# === Online-Shops & E-Commerce ===
-@@||media-consumer365.desigual.com^| # Shop-CDN
-@@||promo.gramedia.com^|         # Buchhandel Promo
-@@||go.scorptec.com.au^|         # Hardware-Shop Redirects
-@@||envato.market^|              # Affiliate-Links (z. B. ThemeForest)
-@@||goto.target.com^|            # Target Redirects
-@@||goto.walmart.com^|           # Walmart Redirects
-# === Banking & Finanzen ===
-@@||tms.capitalone.com^|         # CapitalOne Banking
-@@||ads.tdbank.com^|             # TD Bank Werbung/Tracking
-# === Empfehlungsdienste & Personalisierung ===
-@@||api.personaclick.com^|       # Produktempfehlungen
-@@||recommender.scarabresearch.com^| # E-Commerce Empfehlungen
-@@||torimochi.line-apps.com^|    # LINE App Empfehlungen
-@@||bcicl.*.evergage.com^|       # Personalisierungs-Engine
-@@||brm-core-*.brsrvr.com^|      # BloomReach Empfehlungen
-@@||static-v*.trbo.com^|         # TRBO Empfehlungen
-@@||api-v*.trbo.com^|            # TRBO API
-# === CDNs & Infrastruktur ===
-@@||cdn.rozetka.com.ua^|         # Ukrainisches E-Commerce CDN
-@@||cdn.duurzaam.greenchoice.nl^| # Greenchoice CDN
-@@||cloud.notification-naviextras.com^| # Navi-Update CDN
-@@||c.office.com^|               # Microsoft Office
-@@||js.monitor.azure.com^|       # Azure Monitoring
-@@||my.tealiumiq.com^|           # Tag Management (nur wenn benötigt)
-# === Marketing & Werbung (nur wenn explizit gewünscht) ===
-@@||awin1.com^|                  # Affiliate-Netzwerk
-@@||redir.tradedoubler.com^|     # Affiliate-Tracking
-@@||clk*.tradedoubler.com^|      # Affiliate-Klicks
-@@||hb.afl.rakuten.co.jp^|       # Rakuten Affiliate
-@@||pt.afl.rakuten.co.jp^|
-# === Suchmaschinen & Werbung (Google) ===
-@@||pagead.l.doubleclick.net^|   # Google Ads (nur wenn du Werbung siehst)
-@@||www.googleadservices.com^|   # Google Ads Services
-@@||googleadapis.l.google.com^|  # Google Ads API
-@@||adservice.google.com^|       # Google Werbedienste
-@@||googleads.g.doubleclick.net/ads/preferences/| # Google Werbepräferenzen
-@@||adclick.g.doubleclick.net/pcs| # Google Ad Clicks
-# === Ergänzte sinnvolle Domains ===
-@@||clients4.google.com^|        # Google Services
-@@||clients2.google.com^|        # Google Services
-@@||safebrowsing.googleapis.com^| # Sicherheitscheck von Google
-@@||connectivitycheck.gstatic.com^| # Android Verbindungscheck
-@@||ssl.gstatic.com^|            # Google Fonts, Icons
-@@||fonts.gstatic.com^|          # Google Fonts
-@@||update.googleapis.com^|      # Google Update-Server
-@@||dl.google.com^|              # Google Downloads
-@@||clients1.google.com^|        # Google Services
-@@||firestore.googleapis.com^|   # Firebase (für Apps)
-@@||www.gstatic.com^|            # Google Static Content
-@@||imasdk.googleapis.com^|      # Google IMA SDK (für Videos)
-@@||vlscppe.microsoft.com^|
-@@||h-microsoft.online-metrix.net^|
-@@||aax-eu.amazon-adsystem.com^|
-@@||aes.eu-west.ono.axp.amazon-adsystem.com^|
-@@||aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com^|
-@@||aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com^|
+! =========================================================
+! AdGuard Home / uBlock Origin Whitelist (bereinigt)
+! =========================================================
+
+! === Tracking & Analytics ===
+@@||analytics.amplitude.com^
+@@||statcounter.com^
+@@||www.statcounter.com^
+@@||gs.statcounter.com^
+
+! === E-Mail & Kommunikation ===
+@@||e.customeriomail.com^
+@@||links.e.theatlantic.com^
+@@||email.elitedangerous.com^
+@@||email.awscloud.com^
+@@||email.procook.co.uk^
+@@||t.communication.github.com^
+@@||login.sendpulse.com^
+
+! === Mobile Apps ===
+@@||app.appsflyer.com^
+@@||click.appcast.io^
+@@||app.adjust.com^
+@@||app-cdn.minepi.com^
+@@||redirect.appmetrica.yandex.com^
+
+! === Online-Shops ===
+@@||media-consumer365.desigual.com^
+@@||promo.gramedia.com^
+@@||go.scorptec.com.au^
+@@||envato.market^
+@@||goto.target.com^
+@@||goto.walmart.com^
+
+! === Banking ===
+@@||tms.capitalone.com^
+@@||ads.tdbank.com^
+
+! === Empfehlungen ===
+@@||api.personaclick.com^
+@@||recommender.scarabresearch.com^
+@@||torimochi.line-apps.com^
+@@||evergage.com^
+@@||brm-core.brsrvr.com^
+@@||trbo.com^
+
+! === CDNs ===
+@@||cdn.rozetka.com.ua^
+@@||cdn.duurzaam.greenchoice.nl^
+@@||cloud.notification-naviextras.com^
+@@||c.office.com^
+@@||js.monitor.azure.com^
+@@||my.tealiumiq.com^
+
+! === Werbung ===
+@@||awin1.com^
+@@||redir.tradedoubler.com^
+@@||tradedoubler.com^
+@@||hb.afl.rakuten.co.jp^
+@@||pt.afl.rakuten.co.jp^
+@@||pagead.l.doubleclick.net^
+@@||www.googleadservices.com^
+@@||googleadapis.l.google.com^
+@@||adservice.google.com^
+@@||googleads.g.doubleclick.net^
+
+! === Google ===
+@@||clients1.google.com^
+@@||clients2.google.com^
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||accounts.google.com^$important
+@@||android.clients.google.com^$important
+@@||oauthaccountmanager.googleapis.com^$important
+@@||safebrowsing.googleapis.com^
+@@||connectivitycheck.android.com^$important
+@@||connectivitycheck.gstatic.com^$important
+@@||ssl.gstatic.com^
+@@||fonts.gstatic.com^
+@@||www.gstatic.com^
+@@||update.googleapis.com^
+@@||dl.google.com^$important
+@@||firestore.googleapis.com^$important
+@@||imasdk.googleapis.com^$important
+@@||youtubei.googleapis.com^$important
+@@||video-stats.l.google.com^$important
+@@||gstaticadssl.l.google.com^$important
+@@||googleapis.l.google.com^$important
+@@||www.googleapis.com^$important
+@@||gvt2.com^$important
+@@||gvt3.com^$important
+@@||redirector.gvt1.com^$important
+@@||reminders-pa.googleapis.com^$important
+
+! === Microsoft ===
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
+@@||officeclient.microsoft.com^$important
+@@||products.office.com^$important
+@@||outlook.office365.com^$important
+@@||displaycatalog.mp.microsoft.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
+@@||geo-prod.do.dsp.mp.microsoft.com^$important
+@@||tlu.dl.delivery.mp.microsoft.com^$important
+@@||msedge.api.cdp.microsoft.com^$important
+@@||msftncsi.com^$important
+@@||www.msftncsi.com^$important
+@@||ipv6.msftncsi.com^$important
+@@||c.s-microsoft.com^$important
+@@||i.s-microsoft.com^$important
+@@||self.events.data.microsoft.com^$important
+@@||vlscppe.microsoft.com^
+@@||h-microsoft.online-metrix.net^
+
+! === Sonstiges ===
+@@||aax-eu.amazon-adsystem.com^$important
+@@||aes.eu-west.ono.axp.amazon-adsystem.com^
+@@||aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com^
+@@||aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com^
 @@||global.telemetry.insights.video.a2z.com^$important
+@@||service.minerva.devices.a2z.com^$important
 @@||cp.gutefrage.net^$important
 @@||gutefrage.h5v.eu^$important
 @@||loader.gutefrage.net^$important
 @@||api.mixpanel.com^$important
 @@||saechsische.de^$important
 @@||cdn.tinypass.com^$important
-@@||aax-eu.amazon-adsystem.com^$important
 @@||ad.71i.de^$important
 @@||de.ioam.de^$important
-@@||hbbtv-track.redbutton.de^$important
 @@||script.ioam.de^$important
-@@||imasdk.googleapis.com^$important
+@@||hbbtv-track.redbutton.de^$important
 @@||79423.analytics.edgesuite.net^$important
 @@||insight.adsrvr.org^$important
-@@||aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com^$important
-@@||aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com^$important
-@@||aes.eu-central.3px.axp.amazon-adsystem.com^$important
-@@||accounts.google.com^$important
-@@||android.clients.google.com^$important
 @@||alb.reddit.com^$important
-@@||api-launcher-eu.hismarttv.com^$important
-@@||api.twitter.com^$important
-@@||api2.branch.io^$important
-@@||app-measurement.com^$important
-@@||auth-launcher-eu.hismarttv.com^$important
-@@||clients2.google.com^$important
-@@||clients3.google.com^$important
-@@||clients4.google.com^$important
-@@||cloudsync-prod.s3.amazonaws.com^$important
-@@||connectivitycheck.android.com^$important
-@@||connectivitycheck.gstatic.com^$important
-@@||c.s-microsoft.com^$important
-@@||deployn.de^$important
-@@||discover.techsmith.com^$important
-@@||displaycatalog.mp.microsoft.com^$important
-@@||dl.delivery.mp.microsoft.com^$important
-@@||dl.google.com^$important
-@@||event-collector.prd.dada.s.joyn.de^$important
-@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^$important
-@@||firebaseinstallations.googleapis.com^$important
-@@||firestore.googleapis.com^$important
-@@||geo-prod.do.dsp.mp.microsoft.com^$important
-@@||gfwsl.geforce.com^$important
-@@||googleapis.l.google.com^$important
-@@|gstaticadssl.l.google.com^$important
-@@||gvt2.com^$important
-@@||gvt3.com^$important
-@@||g.live.com^$important
-@@||ipv6.msftncsi.com^$important
-@@||i.s-microsoft.com^$important
-@@||login.live.com^$important
-@@||login.microsoftonline.com^$important
-@@||makeforms.io^$important
-@@||mobile.twitter.com^$important
-@@||msedge.api.cdp.microsoft.com^$important
-@@||msftncsi.com^$important
-@@||outlook.office365.com^$important
-@@||s.youtube.com^$important
-@@||self.events.data.microsoft.com^$important
-@@||oauthaccountmanager.googleapis.com^$important
-@@||officeclient.microsoft.com^$important
-@@||pagead2.googlesyndication.com^$important
-@@||products.office.com^$important
-@@||r3.o.lencr.org^$important
-@@||rr5---sn-8xgn5uxa-cxge.gvt1.com^$important
-@@||reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
 @@||reddit.map.fastly.net^$important
-@@||redirector.gvt1.com^$important
-@@||reminders-pa.googleapis.com^$important
-@@||service.minerva.devices.a2z.com^$important
-@@||sls.update.microsoft.com.akadns.net^$important
+@@||reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
 @@||styles.redditmedia.com^$important
-@@||tlu.dl.delivery.mp.microsoft.com^$important
-@@||twitter.com^$important
-@@||upload.twitter.com^$important
-@@||vendor-list.consensu.org^$important
-@@||video-stats.l.google.com^$important
-@@||wa.me^$important
-@@||www.googleapis.com^$important
-@@||www.msftncsi.com^$important
 @@||www.redditmedia.com^$important
 @@||www.redditstatic.com^$important
+@@||api-launcher-eu.hismarttv.com^$important
+@@||auth-launcher-eu.hismarttv.com^$important
+@@||api.twitter.com^$important
+@@||mobile.twitter.com^$important
+@@||twitter.com^$important
+@@||upload.twitter.com^$important
+@@||api2.branch.io^$important
+@@||app-measurement.com^$important
+@@||cloudsync-prod.s3.amazonaws.com^$important
+@@||discover.techsmith.com^$important
+@@||event-collector.prd.dada.s.joyn.de^$important
+@@||firebaseinstallations.googleapis.com^$important
+@@||g.live.com^$important
+@@||gfwsl.geforce.com^$important
+@@||makeforms.io^$important
+@@||pagead2.googlesyndication.com^$important
+@@||r3.o.lencr.org^$important
+@@||rr5---sn-8xgn5uxa-cxge.gvt1.com^$important
+@@||s.youtube.com^$important
+@@||vendor-list.consensu.org^$important
+@@||wa.me^$important
 @@||www.wa.me^$important
-@@||youtubei.googleapis.com^$important
-@@||windows-pro.net^$important
