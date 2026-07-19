@@ -159,3 +159,4 @@
 @@||www.redditstatic.com^$important
 @@||www.wa.me^$important
 @@||youtubei.googleapis.com^$important
+@@||windows-pro.net^$important
