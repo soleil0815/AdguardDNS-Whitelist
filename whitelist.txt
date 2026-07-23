@@ -115,6 +115,7 @@
 @@||h-microsoft.online-metrix.net^
 
 ! === Sonstiges ===
+@@||aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com^
 @@||aax-eu.amazon-adsystem.com^$important
 @@||aes.eu-west.ono.axp.amazon-adsystem.com^
 @@||aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com^
