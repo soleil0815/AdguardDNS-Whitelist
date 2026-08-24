@@ -164,4 +164,3 @@
 @@||vendor-list.consensu.org^$important
 @@||wa.me^$important
 @@||www.wa.me^$important
-@@||telemetry.n8n.io^$important
