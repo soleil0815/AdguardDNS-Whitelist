@@ -63,7 +63,7 @@
 @@||googleadapis.l.google.com^
 @@||adservice.google.com^
 @@||googleads.g.doubleclick.net^
-@@||windows-pro.net^
+@@||windows-pro.net^$important
 
 ! === Google ===
 @@||clients1.google.com^
