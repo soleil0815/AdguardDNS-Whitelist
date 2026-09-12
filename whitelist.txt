@@ -164,4 +164,4 @@
 @@||vendor-list.consensu.org^$important
 @@||wa.me^$important
 @@||www.wa.me^$important
-@@||tags.vodafone.de^important
+@@||tags.vodafone.de^$important
