@@ -165,3 +165,4 @@
 @@||wa.me^$important
 @@||www.wa.me^$important
 @@||tags.vodafone.de^$important
+@@||teams.events.data.microsoft.com^important
