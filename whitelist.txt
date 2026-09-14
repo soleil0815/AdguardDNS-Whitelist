@@ -58,11 +58,11 @@
 @@||tradedoubler.com^
 @@||hb.afl.rakuten.co.jp^
 @@||pt.afl.rakuten.co.jp^
-@@||pagead.l.doubleclick.net^
-@@||www.googleadservices.com^
-@@||googleadapis.l.google.com^
-@@||adservice.google.com^
-@@||googleads.g.doubleclick.net^
+! @@||pagead.l.doubleclick.net^
+! @@||www.googleadservices.com^
+! @@||googleadapis.l.google.com^
+! @@||adservice.google.com^
+! @@||googleads.g.doubleclick.net^
 @@||windows-pro.net^$important
 
 ! === Google ===
